@@ -17,4 +17,4 @@ This is a simple Python command-line game where the computer randomly selects a 
 
 ##  How to Run
 ```bash
-python Satya_TaskX.py
+python padmaja_Task4.py
