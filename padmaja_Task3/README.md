@@ -18,6 +18,10 @@ The program uses Python's built-in libraries:
 ##  How to Run
 1. Install Python on your system  
 2. Run the following command:
+   ## OUTPUT
+ Random Password Generator
+Enter password length: 10
+Generated Password: cD540o%ToV
 
 ```bash
 python Satya_Task2.py
