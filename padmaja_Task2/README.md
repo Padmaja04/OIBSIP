@@ -25,6 +25,20 @@ BMI = weight / (height × height)
 ##  How to Run
 1. Make sure Python is installed on your system  
 2. Run the following command in terminal:
+   
+ ## OUTPUT
+    BMI CALCULATOR 
+Enter your name: padmaja
+Enter your weight (kg): 46
+Enter your height (meters): 5.2
+
+padmaja, your BMI is: 1.7
+Category: Underweight
+Advice: Eat healthy and gain weight.
+
+Check another BMI? (yes/no): 
+   
 
 ```bash
 python padmaja_Task2.py
+
