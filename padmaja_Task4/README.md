@@ -14,6 +14,20 @@ This is a simple Python command-line game where the computer randomly selects a 
 - Loops (while loop)
 - Conditional statements (if-elif-else)
 - User input handling
+  ## OUTPUT
+  Number Guessing Game
+Guess a number (1-100): 45
+ Too low
+Guess a number (1-100): 60
+ Too low
+Guess a number (1-100): 70
+Too high
+Guess a number (1-100): 66
+Too high
+Guess a number (1-100): 65
+Too high
+Guess a number (1-100): 64
+ Correct! You won
 
 ##  How to Run
 ```bash
