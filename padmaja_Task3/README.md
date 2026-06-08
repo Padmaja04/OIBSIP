@@ -19,9 +19,9 @@ The program uses Python's built-in libraries:
 1. Install Python on your system  
 2. Run the following command:
    ## OUTPUT
- Random Password Generator
-Enter password length: 10
-Generated Password: cD540o%ToV
+ 
+<img width="527" height="67" alt="image" src="https://github.com/user-attachments/assets/9c710726-a17d-47aa-9330-9a87a09d5854" />
+
 
 ```bash
-python Satya_Task2.py
+python padmaja_Task3.py
