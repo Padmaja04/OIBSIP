@@ -27,16 +27,8 @@ BMI = weight / (height × height)
 2. Run the following command in terminal:
    
  ## OUTPUT
-    BMI CALCULATOR 
-Enter your name: padmaja
-Enter your weight (kg): 46
-Enter your height (meters): 5.2
+  <img width="330" height="245" alt="image" src="https://github.com/user-attachments/assets/61465198-0605-467d-ac09-72cead1b0004" />
 
-padmaja, your BMI is: 1.7
-Category: Underweight
-Advice: Eat healthy and gain weight.
-
-Check another BMI? (yes/no): 
    
 
 ```bash
